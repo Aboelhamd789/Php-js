@@ -12,4 +12,4 @@ example:
   php.print_r(array);
 hope you enjoy the first version 😄
 
-Note: I am new to programming for other people(but i spent for a while in javascript) and this is my first official attempt at OOP. If you find any error, tell me about it, and if you want any update, tell me
+Note: I am new to programming for other people(but i spent for a while in javascript(about 3 months)) and this is my first official attempt at OOP. If you find any error, tell me about it, and if you want any update, tell me
