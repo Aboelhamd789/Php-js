@@ -1,4 +1,5 @@
 # Php.js
+first things first i made this module for exersice on OOP and for joking 
 How it Works:
 just like any normal class in js all you have to do is download or copy the code and put it in a file and then bring it to your file as a module
 codes:
